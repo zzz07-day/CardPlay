@@ -1,0 +1,2 @@
+D:\cocos2D.17\project\test1\proj.win32\Debug.win32\test1.exe
+D:\cocos2D.17\project\playCards\proj.win32\Debug.win32\test1.exe

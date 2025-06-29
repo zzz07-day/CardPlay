@@ -1,0 +1,22 @@
+# 忽略 VS 和 Cocos2d-x 的临时文件
+.vs/
+*.vcxproj.user
+*.suo
+*.opensdf
+*.sdf
+*.cache
+*.db
+*.ipch
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.idb
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini
